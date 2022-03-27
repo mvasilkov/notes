@@ -21,3 +21,9 @@ Height: 3.8
 Height: 8
 
 [3]: https://www.ikea.com/il/he/p/capita-leg-stainless-steel-30244346/
+
+[SIGNUM][4]
+
+Width: 70
+
+[4]: https://www.ikea.com/il/he/p/signum-cable-trunking-horizontal-silver-colour-30200253/
