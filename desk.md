@@ -27,3 +27,9 @@ Height: 8
 Width: 70
 
 [4]: https://www.ikea.com/il/he/p/signum-cable-trunking-horizontal-silver-colour-30200253/
+
+[ADILS][5]
+
+Height: 70
+
+[5]: https://www.ikea.com/il/he/p/adils-leg-black-70217973/
