@@ -6,6 +6,7 @@
 * [Syncthing][4]
 * [CrystalDiskInfo][5]
 * [ImageOptim][6]
+* [KeePassXC][7]
 
 [1]: https://developer.apple.com/download/all/
 [2]: https://github.com/Nevcairiel/LAVFilters
@@ -13,3 +14,4 @@
 [4]: https://syncthing.net/
 [5]: https://crystalmark.info/en/software/crystaldiskinfo/
 [6]: https://github.com/ImageOptim/ImageOptim
+[7]: https://github.com/keepassxreboot/keepassxc
