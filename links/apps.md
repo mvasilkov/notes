@@ -7,6 +7,7 @@
 * [CrystalDiskInfo][5]
 * [ImageOptim][6]
 * [KeePassXC][7]
+* [RetroArch][8]
 
 [1]: https://developer.apple.com/download/all/
 [2]: https://github.com/Nevcairiel/LAVFilters
@@ -15,3 +16,4 @@
 [5]: https://crystalmark.info/en/software/crystaldiskinfo/
 [6]: https://github.com/ImageOptim/ImageOptim
 [7]: https://github.com/keepassxreboot/keepassxc
+[8]: https://www.libretro.com/
