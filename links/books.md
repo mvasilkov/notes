@@ -7,6 +7,7 @@
 * [Game Programming Patterns][5]
 * [Ray Tracing in One Weekend][6]
 * [The Rust Programming Language][7]
+* [Algorithms][8]
 
 [1]: https://thebookofshaders.com/
 [2]: https://pbr-book.org/
@@ -15,3 +16,4 @@
 [5]: http://gameprogrammingpatterns.com/
 [6]: https://raytracing.github.io/
 [7]: https://doc.rust-lang.org/book/
+[8]: https://jeffe.cs.illinois.edu/teaching/algorithms/
